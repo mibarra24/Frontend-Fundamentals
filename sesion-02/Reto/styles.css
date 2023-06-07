@@ -1,0 +1,22 @@
+a {
+    text-decoration: none;
+    padding: 12px;
+    width: 10%;
+}
+
+nav {
+    margin: 20px;
+    width: 75%;
+}
+
+div {
+    width: 15%;
+}
+
+header {
+    display: inline;
+}
+
+button{
+    display: inline;
+}
