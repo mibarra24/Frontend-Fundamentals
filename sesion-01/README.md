@@ -11,3 +11,11 @@
 | :computer: | :floppy_disk: | :crystal_ball: | 
 | ------------- |------------- | ------------- |
 | [Contenido de la sesion](https://github.com/mibarra24/Frontend-Fundamentals/blob/main/sesion-01/index.html) | [Reto](https://github.com/mibarra24/Frontend-Fundamentals/tree/main/sesion-01/Reto) | [Postwork](https://github.com/mibarra24/Frontend-Fundamentals/tree/main/sesion-01/Postwork) |
+
+# Postwork
+
+- Checklist del postwork de la sesion 01:
+
+a. Agregar una imagen de la página original de Matcha a tu proyecto.		
+b. Conocer lo que hacen las etiquetas y de HTML.
+c. Conocer lo que hacen las propiedades max-width y border de CSS.	
