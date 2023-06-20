@@ -7,4 +7,4 @@ Contenido del primer modulo de Fullstack Developer Javascript en BEDU
 | Sesion-02 | 1 de Junio | [Agregando la barra de navegación (HTML5 y CSS3)](https://github.com/mibarra24/Frontend-Fundamentals/tree/main/sesion-02) |
 | Sesion-03 | 6 de Junio | [Dividiendo secciones en columnas (HTML-Flexbox)](https://github.com/mibarra24/Frontend-Fundamentals/tree/main/sesion-03) |
 | Sesion-04 | 8 de Junio | [Agregando filas y columnas con CSS Grid (CSS)](https://github.com/mibarra24/Frontend-Fundamentals/tree/main/sesion-04) |
-| Sesion-04 | 13 de Junio | [Responsive design (Adaptando a la vista desde un movil) y responsive CSS frameworks](https://github.com/mibarra24/Frontend-Fundamentals/tree/main/sesion-05) |
+| Sesion-05 | 13 de Junio | [Responsive design (Adaptando a la vista desde un movil) y responsive CSS frameworks](https://github.com/mibarra24/Frontend-Fundamentals/tree/main/sesion-05) |
