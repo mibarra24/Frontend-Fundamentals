@@ -213,3 +213,17 @@ h1 {
   .matcha-work {
     text-align: center;
   }
+
+  .work-card {
+    padding: 5% 10%;
+    grid-template: repeat(2, 330px) / repeat(2, 1fr);
+    border: #343434;
+  }
+
+  .matcha-work .work-card .work-image figure,
+  .matcha-work .work-card .work-image img {
+    margin-top: 0;
+    height: 100%;
+  }
+
+
