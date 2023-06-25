@@ -10,3 +10,9 @@ Contenido del primer modulo de Fullstack Developer Javascript en BEDU
 | Sesion-05 | 13 de Junio | [Responsive design (Adaptando a la vista desde un movil) y responsive CSS frameworks](https://github.com/mibarra24/Frontend-Fundamentals/tree/main/sesion-05) |
 | Sesion-06 | 15 de Junio | [Usando CSS Frameworks (Reutilizando componente visuales)](https://github.com/mibarra24/Frontend-Fundamentals/tree/main/sesion-06) |
 | Sesion-07 | 20 de Junio | [Reprocesadores de CSS (Optimizando la producción de CSS)](https://github.com/mibarra24/Frontend-Fundamentals/tree/main/sesion-07) |
+| Sesion-08 | 22 de Junio | [Interactividad básica (transiciones y animaciones)](https://github.com/mibarra24/Frontend-Fundamentals/tree/main/sesion-08) |
+
+# PROYECTO MATCHA
+
+Proyecto de página web donde se aplican los conocimientos obtenidos durante las 8 sesiones de Frontend
+
